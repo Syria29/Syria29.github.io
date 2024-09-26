@@ -1,3 +1,6 @@
 # Syria29.github.io
 
-My name is Syria and I'm a journalism major at Lehigh University.
+## BIO
+My name is Syria and I'm a [journalism major](https://journalism.cas.lehigh.edu) at Lehigh University.
+
+
