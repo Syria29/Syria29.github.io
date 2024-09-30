@@ -7,4 +7,4 @@
 
 ## Journalism Beats By Race
 Journalism is an important source of information that people of all demographics consume on a regular basis, so it only makes sense to understand who is providing the information that we consume. According to a Pew Research study done in Feb-Mar 2022, people who identify as Caucasian dominate more than 50% of every major news beat. On the other hand, Asian identifying people don't even make up 10% of any of the major beats. This is an issue because it is important for people to hear from minority voices, but if they dominate such a small space within the news work force than how can they be heard?
-[Full Article] (https://www.pewresearch.org/short-reads/2023/04/04/us-journalists-beats-vary-widely-by-gender-and-other-factors/)
+[Full Article](https://www.pewresearch.org/short-reads/2023/04/04/us-journalists-beats-vary-widely-by-gender-and-other-factors/)
