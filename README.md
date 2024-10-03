@@ -12,3 +12,6 @@ Journalism is an important source of information that people of all demographics
 
 ## Le-Laf Games Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ayv5ZlcwkYB4rozjciMeAsewAnBJ_rTCeG6rpDAJ_YE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Kamala Harris' Life Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qZZmz5BUEdJlXQP-vsGYBdnKGzY0syUW259941821BU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
