@@ -25,4 +25,8 @@ Kamala Harris has had a long history working within the government, from her car
 
 ## Average Temperatures in the Dictrict of Columbia
 
-Average temperatures change over time based on the time of year. During the summer months it is hotter (both the average high and average low are warmer) than during the winter months when even the average high temperature can be lower than a summer month's average low. [More data here](https://www.usclimatedata.com)![Graph] from US Climate Data. 
+Average temperatures change over time based on the time of year. During the summer months it is hotter (both the average high and average low are warmer) than during the winter months when even the average high temperature can be lower than a summer month's average low. [More data here](https://www.usclimatedata.com) from US Climate Data. 
+
+![Graph](https://github.com/Syria29/Syria29.github.io/blob/main/avg%20temp.png?raw=true)
+
+
