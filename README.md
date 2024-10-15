@@ -1,5 +1,10 @@
 # Syria's Github
 Syria29.github.io
+My name is Syria Flucas and I am a senior at Lehigh, majoring in Journalism and minoring in Political Science. I'm currently [interning](https://blog.lehigh.edu/communications-intern-profile-syria-flucas-25) at Lehigh's Communications office. I enjoy photography and reading.  
+![me](https://github.com/Syria29/Syria29.github.io/blob/main/me.png?raw=true)
+
+
+
 
 ## Lehigh's Undergrad State Residents
 
