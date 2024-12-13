@@ -43,3 +43,6 @@ Average temperatures change over time based on the time of year. During the summ
 ## Google My Map
 These cities are considered the safest in the United States due to their low crime rates, strong community engagement, and overall economic stability. Smaller populations, like those in South Burlington, Vermont, and Casper, Wyoming, foster close-knit communities that naturally deter crime. Cities such as Boise, Idaho, and Virginia Beach, Virginia, benefit from economic growth, low unemployment, and family-friendly environments, which reduce social issues that often contribute to crime. Additionally, cities like Columbia, Maryland, and Yonkers, New York, emphasize effective policing strategies and community initiatives to maintain safety. A combination of quality of life, community values, and proactive governance ensures these cities consistently rank among the safest places to live.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Pbbv9RNUL9HCDan3iZEnyf8Rkzo0qh4&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+## Interactive Data Visualizations 
