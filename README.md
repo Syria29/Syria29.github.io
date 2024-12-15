@@ -47,3 +47,4 @@ These cities are considered the safest in the United States due to their low cri
 
 
 ## Interactive Data Visualizations 
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/syf226-87f954e295/views/cardata/Sheet2' width='1376' height='691' hide-tabs toolbar='bottom' ></tableau-viz>
